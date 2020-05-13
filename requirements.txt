@@ -1,0 +1,2 @@
+pip2 install requests mechanize bs4
+pip2 install Faker
